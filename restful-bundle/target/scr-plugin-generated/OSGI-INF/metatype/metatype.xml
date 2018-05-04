@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/metatype">
+    <OCD id="com.adobe.restservice.impl.MerklePegaServiceImp" name="pega NBA service" description="pega NBA service">
+        <AD id="pega_nba_service.address" type="String" default="http://18.220.74.152:8080/prweb/PRRestService" name="%pega_nba_service.address.name" description="adress of pega NBA service including port"/>
+    </OCD>
+    <Designate pid="com.adobe.restservice.impl.MerklePegaServiceImp">
+        <Object ocdref="com.adobe.restservice.impl.MerklePegaServiceImp"/>
+    </Designate>
+</metatype:MetaData>

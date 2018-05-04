@@ -1,0 +1,5 @@
+com\adobe\restservice\impl\DistanceImp.class
+com\adobe\restservice\impl\MerklePegaServiceImp.class
+com\adobe\restservice\impl\filters\LoggingFilter.class
+com\adobe\restservice\MerklePegaService.class
+com\adobe\restservice\Distance.class
